@@ -1,0 +1,52 @@
+.Kanban {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.col1 {
+    margin-left: 25px;
+    margin-right: 25px;
+    flex: 1;
+    border: 1px solid gray;
+}
+
+.col2 {
+    margin-right: 25px;
+    flex: 1;
+    border: 1px solid gray;
+}
+
+.col3 {
+    margin-right: 25px;
+    flex: 1;
+    border: 1px solid gray;
+}
+
+.col4 {
+    margin-right: 25px;
+    flex: 1;
+    border: 1px solid gray;
+}
+
+.col1 p {
+    background-color: red;
+    margin: auto;
+}
+
+.col2 p {
+    background-color: blue;
+    margin: auto;
+}
+
+.col3 p {
+    background-color: green;
+    margin: auto;
+}
+
+.col4 p {
+    background-color: gray;
+    margin: auto;
+}

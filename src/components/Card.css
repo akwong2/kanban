@@ -1,0 +1,17 @@
+.Card {
+    border: 1px solid gray;
+    text-align: center;
+    display:flex;
+}
+
+.Back {
+    flex: 1;
+}
+
+.Element {
+    flex: 10;
+}
+
+.Forward{
+    flex: 1;
+}
